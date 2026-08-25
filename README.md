@@ -97,7 +97,7 @@ Monitoring, alerting, on-call stability, MTTR reduction
 ## 💼 Work Highlights
 
 ### 🔷 Oracle NetSuite — Team Lead *(2023–Present)*
-Led the team owning NetSuite–FarApp integration pipelines serving enterprise e-commerce clients at scale. Established engineering best practices, ran architecture design reviews, and drove adoption of AI-assisted development workflows (Claude, AmpCode, Cline) that measurably improved delivery speed and code quality. Collaborated directly with product and support to define requirements and ship high-impact features.
+Led the team owning NetSuite–FarApp integration pipelines serving enterprise e-commerce clients at scale. Established engineering best practices, ran architecture design reviews, and drove adoption of AI-assisted development workflows (Claude, AmpCode, Codex) that measurably improved delivery speed and code quality. Collaborated directly with product and support to define requirements and ship high-impact features.
 
 ### 🔷 Aleph RDI — AI-Driven API Consultant *(2025–2026)*
 Architected and deployed LLM-powered AI agents to autonomously orchestrate complex API workflows across healthcare networks. Designed secure, event-driven integration pipelines in Go and Python handling multi-service data transformation under strict compliance requirements.
