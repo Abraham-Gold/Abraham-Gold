@@ -102,7 +102,7 @@ Led the team owning NetSuite–FarApp integration pipelines serving enterprise e
 ### 🔷 Aleph RDI — AI-Driven API Consultant *(2025–2026)*
 Architected and deployed LLM-powered AI agents to autonomously orchestrate complex API workflows across healthcare networks. Designed secure, event-driven integration pipelines in Go and Python handling multi-service data transformation under strict compliance requirements.
 
-### 🔷 Senior Software Engineer, Oracle NetSuite *(2022–2023)*
+### 🔷 Oracle NetSuite - Senior Software Engineer *(2020–2023)*
 Modernized legacy Python and JavaScript integration services, improving performance and reliability across core NetSuite–eCommerce platform components. Strengthened monitoring and alerting infrastructure to reduce MTTR and stabilize on-call operations.
 
 ### 🔷 UCLA Bouchard Lab — Undergraduate Researcher *(2017–2019)*
