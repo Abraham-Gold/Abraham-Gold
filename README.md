@@ -1,11 +1,12 @@
 <h1 align="center">Abraham Goldstein</h1>
 <h3 align="center">Staff Software Engineer &amp; Team Lead · Denver, CO</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Abraham.Goldstein111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/abraham-goldstein-51030519b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Abraham.Goldstein111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Abraham.Goldstein111@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-goldstein-51030519b)
+
+</div>
 
 ---
 
@@ -124,9 +125,11 @@ Applied machine learning and statistical modeling to computational biology resea
 
 ---
 
-<p align="center">
-  <i>Currently open to Staff Engineer and Engineering Lead opportunities. Let's connect!</i><br/>
-  📧 Abraham.Goldstein111@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/abraham-goldstein-51030519b">LinkedIn</a>
-</p>
+<div align="center">
 
+*Currently open to Staff Engineer and Engineering Lead opportunities. Let's connect!*
+
+[📧 Abraham.Goldstein111@gmail.com](mailto:Abraham.Goldstein111@gmail.com) &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-goldstein-51030519b)
+
+</div>
 
