@@ -2,7 +2,8 @@
 <h3 align="center">Staff Software Engineer &amp; Team Lead · Denver, CO</h3>
 
 <p align="center">
-  <a href="mailto:Abraham.Goldstein111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Abraham.Goldstein111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abraham-goldstein-51030519b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -125,5 +126,7 @@ Applied machine learning and statistical modeling to computational biology resea
 
 <p align="center">
   <i>Currently open to Staff Engineer and Engineering Lead opportunities. Let's connect!</i><br/>
-  <a href="mailto:Abraham.Goldstein111@gmail.com">Abraham.Goldstein111@gmail.com</a> · <a href="https://www.linkedin.com/in/abraham-goldstein-51030519b">LinkedIn</a>
+  📧 Abraham.Goldstein111@gmail.com &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/abraham-goldstein-51030519b">LinkedIn</a>
 </p>
+
+
