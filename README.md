@@ -12,9 +12,18 @@
 
 ## 👋 About Me
 
-Senior Software Engineer and Team Lead with a track record of shipping high-volume API integrations and leading cross-functional engineering teams. I design and build distributed systems with a focus on reliability, throughput, and observability — and I mentor engineers to do the same. My background spans backend systems (Python, TypeScript, Go), ML/statistical modeling, and AI-assisted development workflows.
+Staff Software Engineer and Team Lead with a track record of shipping high-volume API integrations and leading cross-functional engineering teams. I design and build distributed systems with a focus on reliability, throughput, and observability — and I mentor engineers to do the same. My background spans backend systems (Python, TypeScript, Go), ML/statistical modeling, and AI-assisted development workflows.
 
 I'm energized by hard technical problems at scale: reducing MTTR, eliminating operational toil, and building systems that teams can own confidently.
+
+---
+
+## 🔨 What I'm Building
+
+- **Agent Cost Guard** — a local-first dashboard tracking AI API and coding-agent spend by key, model, and project, with alerts before a leaked or rogue agent can burn real money.
+- **Agent Seatbelt** — a CLI that wraps an agent's shell commands in a JSON policy, sandboxes the run, and writes a redacted audit log of everything it did.
+- **ForecastML** — an estate and wealth forecasting engine that parses bank and investment statements, then gives tax and investment advice based on the specifics.
+- **mcp-backlog-server** — an MCP server exposing a game backlog as tools, so an AI assistant can list it, pick a game that fits the session, and report stats.
 
 ---
 
@@ -82,8 +91,10 @@ Monitoring, alerting, on-call stability, MTTR reduction
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **ML & Data Science**
@@ -133,4 +144,3 @@ Applied machine learning and statistical modeling to computational biology resea
 
 
 </div>
-
