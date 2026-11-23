@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Staff Software Engineer and Team Lead with a track record of shipping high-volume API integrations and leading cross-functional engineering teams. I design and build distributed systems with a focus on reliability, throughput, and observability — and I mentor engineers to do the same. My background spans backend systems (Python, TypeScript, Go), ML/statistical modeling, and AI-assisted development workflows.
 
@@ -18,7 +18,7 @@ I'm energized by hard technical problems at scale: reducing MTTR, eliminating op
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ Monitoring, alerting, on-call stability, MTTR reduction
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -96,31 +96,23 @@ Monitoring, alerting, on-call stability, MTTR reduction
 
 ---
 
-## 💼 Work Highlights
+## Work Highlights
 
-### 🔷 Oracle NetSuite — Team Lead *(2023–Present)*
+### Oracle NetSuite — Team Lead *(2023–Present)*
 Led the team owning NetSuite–FarApp integration pipelines serving enterprise e-commerce clients at scale. Established engineering best practices, ran architecture design reviews, and drove adoption of AI-assisted development workflows (Claude, AmpCode, Codex) that measurably improved delivery speed and code quality. Collaborated directly with product and support to define requirements and ship high-impact features.
 
-### 🔷 Aleph RDI — AI-Driven API Consultant *(2025–2026)*
+### Aleph RDI — AI-Driven API Consultant *(2025–2026)*
 Architected and deployed LLM-powered AI agents to autonomously orchestrate complex API workflows across healthcare networks. Designed secure, event-driven integration pipelines in Go and Python handling multi-service data transformation under strict compliance requirements.
 
-### 🔷 Oracle NetSuite - Senior Software Engineer *(2020–2023)*
+### Oracle NetSuite - Senior Software Engineer *(2020–2023)*
 Modernized legacy Python and JavaScript integration services, improving performance and reliability across core NetSuite–eCommerce platform components. Strengthened monitoring and alerting infrastructure to reduce MTTR and stabilize on-call operations.
 
-### 🔷 UCLA Bouchard Lab — Undergraduate Researcher *(2017–2019)*
+### UCLA Bouchard Lab — Undergraduate Researcher *(2017–2019)*
 Applied machine learning and statistical modeling to computational biology research, developing expertise in Hidden Markov Models, Dynamic Bayesian Networks, and regression modeling.
 
 ---
 
-## 🧭 Engineering Philosophy
-
-- **Observability first** — systems you can't measure are systems you can't improve; I build monitoring and alerting in from day one
-- **Scale through people** — the highest-leverage work is raising the technical floor of the team through mentorship, design reviews, and shared engineering standards
-- **Pragmatic with AI tooling** — I treat LLMs as a serious productivity multiplier and actively build workflows that let engineers ship faster without sacrificing code quality
-
----
-
-## 🎓 Education
+## Education
 
 **B.S. Biochemistry with Computing** | Minor in Bioinformatics  
 *University of California, Los Angeles (UCLA)* · 2015–2019
@@ -131,7 +123,7 @@ Applied machine learning and statistical modeling to computational biology resea
 
 *Currently open to Staff Engineer and Engineering Lead opportunities. Let's connect!*
 
-[📧 Abraham.Goldstein111@gmail.com](https://mail.google.com/mail/?view=cm&to=Abraham.Goldstein111@gmail.com) &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-goldstein-51030519b)
+[Abraham.Goldstein111@gmail.com](https://mail.google.com/mail/?view=cm&to=Abraham.Goldstein111@gmail.com) &nbsp;·&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-goldstein-51030519b)
 
 
 </div>
