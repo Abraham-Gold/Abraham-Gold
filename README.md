@@ -18,15 +18,6 @@ I'm energized by hard technical problems at scale: reducing MTTR, eliminating op
 
 ---
 
-## 🔨 What I'm Building
-
-- **Agent Cost Guard** — a local-first dashboard tracking AI API and coding-agent spend by key, model, and project, with alerts before a leaked or rogue agent can burn real money.
-- **Agent Seatbelt** — a CLI that wraps an agent's shell commands in a JSON policy, sandboxes the run, and writes a redacted audit log of everything it did.
-- **ForecastML** — an estate and wealth forecasting engine that parses bank and investment statements, then gives tax and investment advice based on the specifics.
-- **mcp-backlog-server** — an MCP server exposing a game backlog as tools, so an AI assistant can list it, pick a game that fits the session, and report stats.
-
----
-
 ## 🧠 Core Expertise
 
 <table>
